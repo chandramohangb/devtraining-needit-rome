@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="DELETE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>TEMPLATE2</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-11 12:05:21</sys_created_on>
+        <sys_id>d76750031b073010e21ecae0604bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_template_d76750031b073010e21ecae0604bcb3a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-11 12:05:21</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <template>active=true^description=Test^opened_at=2021-10-08 04:14:40^opened_by=6816f79cc0a8016401c5a33be04be441^priority=4^short_description=Test^state=13^u_request_type=legal^u_requested_for=681ccaf9c0a8016400b98a06818d57c7^u_what_needed=legal1^u_when_needed=2021-10-15 04:15:50^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>768bba2c1b4b28107d9d2f8dee4bcbd9</instance_id>
+        <instance_name>dev107138</instance_name>
+        <name>sys_template_d76750031b073010e21ecae0604bcb3a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template"><sys_template action="INSERT_OR_UPDATE"><active>true</active><global>false</global><group/><groups/><link_element/><name>TEMPLATE2</name><next/><next_child/><roles/><short_description/><show_on_template_bar>true</show_on_template_bar><stand_alone>false</stand_alone><sys_class_name>sys_template</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-11 12:05:21</sys_created_on><sys_id>d76750031b073010e21ecae0604bcb3a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TEMPLATE2</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_template_d76750031b073010e21ecae0604bcb3a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-11 12:05:21</sys_updated_on><table>x_58872_needit_needit</table><template>active=true^description=Test^opened_at=2021-10-08 04:14:40^opened_by=6816f79cc0a8016401c5a33be04be441^priority=4^short_description=Test^state=13^u_request_type=legal^u_requested_for=681ccaf9c0a8016400b98a06818d57c7^u_what_needed=legal1^u_when_needed=2021-10-15 04:15:50^EQ</template><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user><view/></sys_template></record_update>]]></payload>
+        <payload_hash>807265496</payload_hash>
+        <record_name>TEMPLATE2</record_name>
+        <reverted_from/>
+        <source>2dde0cc61b033010e21ecae0604bcb34</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-11 12:05:21</sys_created_on>
+        <sys_id>49a7dc8f1bc33010e21ecae0604bcb24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c6f3e393f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-11 12:05:21</sys_updated_on>
+        <type>Template</type>
+        <update_guid>41a7dc8f75c3301070a198e5f3b7e224</update_guid>
+        <update_guid_history>41a7dc8f75c3301070a198e5f3b7e224:807265496</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-11 12:06:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_template">sys_template</sys_db_object>
+        <sys_id>27b08f6f209e45b0ba5f9074fbf7fa90</sys_id>
+        <sys_metadata>d76750031b073010e21ecae0604bcb3a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_template_d76750031b073010e21ecae0604bcb3a</sys_update_name>
+        <sys_update_version display_value="sys_template_d76750031b073010e21ecae0604bcb3a">49a7dc8f1bc33010e21ecae0604bcb24</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-11 12:06:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
